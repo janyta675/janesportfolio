@@ -1554,3 +1554,12 @@ a {
 }
 
 
+.nav-link {
+background-color: rgb(255, 255, 255);
+
+
+}
+.nav-link:hover{
+  color: rgb(209, 33, 33) transparent;
+  
+  }
